@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:01
-#+PROPERTY: JUAN 222
+#+DATE: 2015-08-24 22:12:05.601332
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二百十二
 <pb:KR1d0087_WYG_222-1a>¶
 欽定四庫全書¶
 　五禮通考卷二百十二¶
@@ -632,4 +634,3 @@
 (禦/戸)¶
 　　　　　　　　　　右明¶
 　五禮通考卷二百十二¶
-

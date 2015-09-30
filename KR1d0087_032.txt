@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:00
-#+PROPERTY: JUAN 32
+#+DATE: 2015-08-24 22:11:59.789941
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1d0087_WYG_032-1a>¶
 欽定四庫全書¶
 　五禮通考卷二十二¶
@@ -974,4 +976,3 @@
 　祀與戎禮既廢也何能久乎齊亡無日矣¶
 　　　　　　　　　　右漢至南北朝雩禮¶
 　五禮通考卷二十二¶
-

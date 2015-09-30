@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:00
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:11:59.764491
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1d0087_WYG_031-1a>¶
 欽定四庫全書¶
 　五禮通考卷二十一¶
@@ -1244,4 +1246,3 @@
 　　　　其亦有不得已于痌瘝者歟¶
 　　　　　　　　　　右歴代祈榖禮¶
 　五禮通考卷二十一¶
-

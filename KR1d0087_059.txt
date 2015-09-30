@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:00
-#+PROPERTY: JUAN 59
+#+DATE: 2015-08-24 22:12:00.564389
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十九
 <pb:KR1d0087_WYG_059-1a>¶
 欽定四庫全書¶
 　五禮通考卷四十九¶
@@ -740,4 +742,3 @@
 　¶
 　¶
 　五禮通考卷四十九¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:01
-#+PROPERTY: JUAN 161
+#+DATE: 2015-08-24 22:12:03.617378
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百五十一
 <pb:KR1d0087_WYG_161-1a>¶
 欽定四庫全書¶
 　五禮通考卷一百五十一¶
@@ -1100,4 +1102,3 @@
 　¶
 　¶
 　五禮通考卷一百五十一¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:00
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:11:59.090210
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 總目上
 <pb:KR1d0087_WYG_001-1a>¶
 欽定四庫全書　　　　經部四¶
 　五禮通考目録　　　　禮類五(通禮之屬/)¶
@@ -997,4 +999,3 @@
 　　　　享先醫¶
 　　　　古祭厲¶
 　　　　歴代祭厲¶
-

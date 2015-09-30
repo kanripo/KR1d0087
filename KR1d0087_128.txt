@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:01
-#+PROPERTY: JUAN 128
+#+DATE: 2015-08-24 22:12:02.608237
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十八
 <pb:KR1d0087_WYG_128-1a>¶
 欽定四庫全書¶
 　五禮通考卷一百十八¶
@@ -902,4 +904,3 @@
 　便於事是亦求神之義也¶
 　　　　　　　　　　右宋¶
 　五禮通考卷一百十八¶
-

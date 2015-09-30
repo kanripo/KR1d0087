@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:00
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:11:59.141148
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 原序[蔣汾功]
 <pb:KR1d0087_WYG_003-1a>¶
 五禮通考原序¶
 三代時禮行於上自王侯迄士庶皆肄習焉無庸稽之¶
@@ -40,4 +42,3 @@
 中不至若扣槃捫燭也故不敢以老辭序而歸之¶
 <pb:KR1d0087_WYG_003-3a>¶
 乾隆十有八年秋八月陽湖八十二老人蒋汾功¶
-

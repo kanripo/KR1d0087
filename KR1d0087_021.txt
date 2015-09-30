@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:00
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:11:59.507651
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1d0087_WYG_021-1a>¶
 欽定四庫全書¶
 　五禮通考卷十一¶
@@ -578,4 +580,3 @@
 　　　　故總附唐末不復加區別云¶
 　　　　　　　　　　右五代郊禮¶
 　五禮通考巻十一¶
-

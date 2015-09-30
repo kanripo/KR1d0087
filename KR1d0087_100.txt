@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:01
-#+PROPERTY: JUAN 100
+#+DATE: 2015-08-24 22:12:01.797547
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十
 <pb:KR1d0087_WYG_100-1a>¶
 欽定四庫全書¶
 　五禮通考卷九十¶
@@ -1244,4 +1246,3 @@
 　　　　　　　　　　右北魏北齊北周廟享¶
 　¶
 　五禮通考卷九十¶
-

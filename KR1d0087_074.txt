@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五禮通考
-#+DATE: 2015-09-23 09:39:01
-#+PROPERTY: JUAN 74
+#+DATE: 2015-08-24 22:12:01.007072
+#+PROPERTY: ID KR1d0087
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十四
 <pb:KR1d0087_WYG_074-1a>¶
 欽定四庫全書¶
 　五禮通考卷六十四¶
@@ -1028,4 +1030,3 @@
 　¶
 　¶
 　五禮通考巻六十四¶
-
